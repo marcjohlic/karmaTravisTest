@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@ibma/karma-ibma": "^2.3.0"
+  }
+}
