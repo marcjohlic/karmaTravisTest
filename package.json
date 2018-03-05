@@ -1,14 +1,14 @@
 {
-  "name": "va11ys",
+  "name": "karmaTravisTest",
   "version": "1.0.0",
-  "description": "Verified Accessibility Samples",
+  "description": "Karma Travis Test",
   "main": "index.js",
   "scripts": {
     "test": "karma start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IBMa/Va11yS.git"
+    "url": "git+https://github.com/marcjohlic/karmaTravisTest.git"
   },
   "keywords": [
     "a11y",
@@ -17,9 +17,9 @@
   "author": "IBMa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IBMa/Va11yS/issues"
+    "url": "https://github.com/marcjohlic/karmaTravisTest/issues"
   },
-  "homepage": "https://github.com/IBMa/Va11yS#readme",
+  "homepage": "https://github.com/marcjohlic/karmaTravisTest#readme",
   "devDependencies": {
     "@ibma/karma-ibma": "https://aat.mybluemix.net:/dist/karma-ibma.tgz",
     "jasmine-core": "^2.6.1",
