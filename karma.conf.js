@@ -22,9 +22,9 @@ module.exports = function(config) {
 
 
     // list of files to exclude
-    //  exclude: [
-    //  'node_modules/**/*.html'
-    //  ],
+       exclude: [
+      'node_modules/**/*.html'
+      ],
 
 
     // preprocess matching files before serving them to the browser
